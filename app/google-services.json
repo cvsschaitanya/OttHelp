@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398400252595",
+    "project_id": "otthelp-8b7b8",
+    "storage_bucket": "otthelp-8b7b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398400252595:android:03a0c58d4ebea9dcb85ec6",
+        "android_client_info": {
+          "package_name": "com.example.otthelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398400252595-f4n22lemjp4kc2n820l6kjh2lq0c9cal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTZGcD2S6kHO3WNQ6ayGz6qOegqbTovw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398400252595-f4n22lemjp4kc2n820l6kjh2lq0c9cal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
